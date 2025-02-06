@@ -1,0 +1,4 @@
+Ticket ID: 1002
+Booking ID: 1
+QR Code: SampleQRCode123
+Check-In Status: False

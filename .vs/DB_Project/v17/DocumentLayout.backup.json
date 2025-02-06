@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\userandorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\userandorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\attendee\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:attendee\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\userandorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\userandorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\registeradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\registeradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\registeradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\registeradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\complain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\admin\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:admin\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\attendee\\attendeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:attendee\\attendeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|c:\\users\\dell\\onedrive\\desktop\\i222426_i222458_i222493_db_b\\attendee\\attendeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF61BC32-BB53-4AEF-B4F9-8A0013F104CF}|DB_Project.csproj|solutionrelative:attendee\\attendeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\attendee\\search.cs",
+              "RelativeDocumentMoniker": "attendee\\search.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\attendee\\search.cs [Design]",
+              "RelativeToolTip": "attendee\\search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:48:12.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userAndOrganizer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\userAndOrganizer.cs",
+              "RelativeDocumentMoniker": "admin\\userAndOrganizer.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\userAndOrganizer.cs",
+              "RelativeToolTip": "admin\\userAndOrganizer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:45:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userAndOrganizer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\userAndOrganizer.cs",
+              "RelativeDocumentMoniker": "admin\\userAndOrganizer.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\userAndOrganizer.cs [Design]",
+              "RelativeToolTip": "admin\\userAndOrganizer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:45:46.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "registerAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\registerAdmin.cs",
+              "RelativeDocumentMoniker": "admin\\registerAdmin.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\registerAdmin.cs",
+              "RelativeToolTip": "admin\\registerAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:45:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registerAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\registerAdmin.cs",
+              "RelativeDocumentMoniker": "admin\\registerAdmin.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\registerAdmin.cs [Design]",
+              "RelativeToolTip": "admin\\registerAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:45:32.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\Feedback.cs",
+              "RelativeDocumentMoniker": "admin\\Feedback.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\Feedback.cs",
+              "RelativeToolTip": "admin\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:45:21.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feedback.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\Feedback.cs",
+              "RelativeDocumentMoniker": "admin\\Feedback.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\Feedback.cs [Design]",
+              "RelativeToolTip": "admin\\Feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:45:19.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eventManagement.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\eventManagement.cs",
+              "RelativeDocumentMoniker": "admin\\eventManagement.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\eventManagement.cs",
+              "RelativeToolTip": "admin\\eventManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:45:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "eventManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\eventManagement.cs",
+              "RelativeDocumentMoniker": "admin\\eventManagement.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\eventManagement.cs [Design]",
+              "RelativeToolTip": "admin\\eventManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:45:08.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "complain.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\complain.cs",
+              "RelativeDocumentMoniker": "admin\\complain.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\complain.cs",
+              "RelativeToolTip": "admin\\complain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:44:57.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "complain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\complain.cs",
+              "RelativeDocumentMoniker": "admin\\complain.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\complain.cs [Design]",
+              "RelativeToolTip": "admin\\complain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:44:55.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "analytics.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\analytics.cs",
+              "RelativeDocumentMoniker": "admin\\analytics.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\analytics.cs",
+              "RelativeToolTip": "admin\\analytics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:44:53.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "analytics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\analytics.cs",
+              "RelativeDocumentMoniker": "admin\\analytics.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\admin\\analytics.cs [Design]",
+              "RelativeToolTip": "admin\\analytics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:44:51.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "attendeeLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\attendee\\attendeeLogin.cs",
+              "RelativeDocumentMoniker": "attendee\\attendeeLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\attendee\\attendeeLogin.cs",
+              "RelativeToolTip": "attendee\\attendeeLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:44:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "attendeeLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\attendee\\attendeeLogin.cs",
+              "RelativeDocumentMoniker": "attendee\\attendeeLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\i222426_i222458_i222493_DB_B\\attendee\\attendeeLogin.cs [Design]",
+              "RelativeToolTip": "attendee\\attendeeLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:44:43.146Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Ticket ID: 2
+Booking ID: 1
+QR Code: SampleQRCode123
+Check-In Status: False
