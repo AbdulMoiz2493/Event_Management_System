@@ -51,5 +51,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 - **Abdul Moiz**  
-  Email: abdulmoiz8895@gmail.com 
-  GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
+- Email: abdulmoiz8895@gmail.com 
+- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
